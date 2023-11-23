@@ -1,6 +1,9 @@
 # Welcome to DevsUnify! 🌐
 
-<img src="styles.svg" width="400" height="400" alt="css-in-readme">
+<p align="center">
+    <img width="200" src="./devsunify-logo-outline.png" alt="DevsUnify Logo">
+</p>
+
 Hey there, fellow developer! Welcome to DevsUnify, a vibrant community that brings together developers from all around the world. 🚀 We embrace diversity and inclusivity, catering to developers with various areas of expertise, including frontend, backend, embedded systems, fullstack, desktop, and more.
 
 ## 🌟 About Us
