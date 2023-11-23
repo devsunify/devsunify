@@ -1,16 +1,6 @@
 # Welcome to DevsUnify! 🌐
-<style>
-  .logo-container{
-    display:flex;
-    align-items:center;
-    justify-content:center;
-    width: '100%';
-  }
-</style>
-<div class='logo-container'>
-<img src="devsunify-logo-outline.png" alt="drawing" width="200"/>
-</div>
 
+<img src="styles.svg" width="400" height="400" alt="css-in-readme">
 Hey there, fellow developer! Welcome to DevsUnify, a vibrant community that brings together developers from all around the world. 🚀 We embrace diversity and inclusivity, catering to developers with various areas of expertise, including frontend, backend, embedded systems, fullstack, desktop, and more.
 
 ## 🌟 About Us
@@ -46,4 +36,3 @@ Join us on this exciting journey of collaboration, learning, and friendship. Let
 Happy coding! 🚀✨
 
 ---
-
