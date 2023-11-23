@@ -11,7 +11,7 @@ DevsUnify is a community-driven initiative with a mission to foster collaboratio
 ### 🌐 Connect with Us
 
 - **Website:** [devsunify.com](https://devsunify.com)
-- **Discord:** [Join our Discord server](https://discord.gg/nqWCAQ52uu))
+- **Discord:** [Join our Discord server](https://discord.gg/nqWCAQ52uu)
 - **Twitter:** [Follow us on Twitter](https://twitter.com/UnifyDevs)
 - **Telegram:** [Join our Telegram group]()
 
