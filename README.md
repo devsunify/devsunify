@@ -1,6 +1,6 @@
 # Welcome to DevsUnify! 🌐
 
-![DevsUnify Logo](./devsunify-logo-outline.png)
+<img src="devsunify-logo-outline.png" alt="drawing" width="200"/>
 
 Hey there, fellow developer! Welcome to DevsUnify, a vibrant community that brings together developers from all around the world. 🚀 We embrace diversity and inclusivity, catering to developers with various areas of expertise, including frontend, backend, embedded systems, fullstack, desktop, and more.
 
